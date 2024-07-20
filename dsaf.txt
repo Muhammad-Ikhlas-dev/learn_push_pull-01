@@ -1,0 +1,2 @@
+wowww push jo hai wo khudi local repo mein us name ki branch ko dhoondta jo hum nay command
+mein "online repo" ki likhi hui aur usi kay changes apnay andar update ya merge krta
